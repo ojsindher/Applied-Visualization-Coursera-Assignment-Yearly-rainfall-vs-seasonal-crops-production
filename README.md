@@ -14,4 +14,5 @@ These datasets were taken from Open Government Data(OGD) Platform India
 
 ## Conclusion
 This visualization was concerned with checking the effect of rainfall on various seasonal crops. The data was scrapped from Open Government Data (OGD) Platform India for rainfall measures in different states of India for all months, and similarily for production of different crop types based on seasons. I selected the region as 'Haryana', state of North India as it is my home town and I was curious to visualize its results.
+
 There are three seasons named, Rabi, Kharif and Whole Year, so the averages of rainfall were used for only the specific months in which those seasonal crops get sowed and harvested, for instance, for Rabi crops, I have considered 'JAN','FEB','OCT','NOV','DEC' months rainfalls amount only. It was found that the for the whole year and Kharif crops the rainfall is very beneficial and necessary for these crops production, though for Kharif crops it is preferable that if there is less rainfall then its crops production increases as can be seen clearly in the visualization for the years of 1997, 1998, 2006, 2007.
